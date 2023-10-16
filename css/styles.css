@@ -328,6 +328,10 @@
     width: auto;
   }
 
+  .section1 p {
+    font-size: 15px;
+  }
+
   .section1 img{
     margin-top: 70px;
     margin-left: 0px;
